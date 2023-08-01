@@ -9,7 +9,7 @@ This repository is dedicated to mastering the art of blockchain development thro
 
 -Complete the Tasks per Module on Alchemy.
 
--Submit pull requests to share your creations with the community.
+-Push to your branch to share your creations with the community.
 
 -Engage in discussions, review code, and provide valuable feedback.
 
