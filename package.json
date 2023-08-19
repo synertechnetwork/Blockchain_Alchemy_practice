@@ -1,0 +1,18 @@
+{
+  "name": "alchemy-university-blockchain-codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "synertech",
+    "network"
+  ],
+  "author": "Marcus Dashe <marcusdashe.developer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-cryptography": "^2.1.2"
+  }
+}
